@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+ 
+}
+
+body{
+	background-image: radial-gradient(circle, rgb(157, 180, 255), rgb(79, 90, 248), rgb(0, 53, 167));
+}
+.section1{
+	margin-top: 80px;
+	margin-left: 90px;
+	margin-bottom: 20px;
+	float: left;
+	margin-right: 150px;
+	background-color: rgb(1, 13, 53);
+	box-shadow: 20px 20px 35px rgb(12, 12, 12);
+
+}
+
+.main{
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 20px;
+	margin-bottom: 5px;
+	float: left;
+	
+}
+
+
+table{
+	border-collapse:collapse;
+	width:150px;
+	height:150px;
+	margin-left:20px;
+	margin-bottom: 20px;
+	
+}
+
+table td{
+	size:20px;
+	text-align: center;
+}
+
+.c1{
+	border:1px solid rgb(116, 255, 236);
+	background-image: linear-gradient(to right, rgb(5, 103, 252) , rgb(45, 206, 255));
+
+}
+
+.section2 {
+	margin-top: 80px;
+	margin-left: 450px;
+	margin-bottom: 20px;
+	float: left;
+	margin-right: 150px;
+	background-color: rgb(1, 13, 53);
+	box-shadow: 20px 20px 35px rgb(12, 12, 12);
+	
+}
+
+.main1{
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 20px;
+	margin-bottom: 5px;
+	float: left;
+}
+
+.section3{
+	margin-top: 80px;
+	margin-left: 250px;
+	margin-bottom: 20px;
+	float: left;
+	margin-right: 150px;
+	background-color: rgb(1, 13, 53);
+	box-shadow: 20px 20px 35px rgb(12, 12, 12);
+	
+}
+
+.main2{
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 20px;
+	margin-bottom: 5px;
+	float: left;
+}
